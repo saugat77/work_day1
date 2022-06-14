@@ -4,6 +4,7 @@
 .logo{
   position: fixed;
   background-color: white;
+  opacity: 0.8;
 }
 .hero{
  background-image:url('./new.jpg');
@@ -14,7 +15,7 @@
 .hero  p{
   text-align: center;
   font-weight: 400px;
-  background-color: orangered;
+ 
   color: white;
 }
 .hero button{
@@ -45,7 +46,7 @@
   .para {
     padding:50px;
     margin: 100px;
-    background-image: url(./nepal.jfif);
+    background-color: wheat;
     height: 300px;
     font-size: 24px;
     text-align: center;

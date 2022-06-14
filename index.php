@@ -76,27 +76,27 @@
 </header>
     <div class="hero">
         <div class="centered">
-                <a style="font-size: 40px"><p>We build hope.</p>
-                        <p>We buildOn<br></p>
+                <a style="font-size: 40px"><p>We build hope.
+                        <br>We buildOn<br></p>
             <button style="background-color:orange; font ">Join us</button></a>
          </div>
 </div>
 <div class="form">
         <p>Never miss a chance to make a difference</p>
         <div class="form-center">
-            <form class="row gx-3 gy-2 align-items-center">
-                    <div class="col-sm-3" style="margin-left: 300px;">
+            <form class="row gx-3 gy-2 align-items-center" >
+                    <div class="col-sm-3" style="margin-left: 300px; margin-bottom:20px;">
                         <label class="visually-hidden" for="specificSizeInputName" >Name</label>
                         <input type="text" class="form-control" id="specificSizeInputName" placeholder="First name">
                     </div>
                     <div class="col-sm-3">
                         <label class="visually-hidden" for="specificSizeInputGroupUsername">Username</label>
-                        <div class="input-group">
+                        <div class="input-group" style=" margin-bottom:20px;">
                         <input type="text" class="form-control" id="specificSizeInputGroupUsername" placeholder="Email">
                         </div>
                     </div>
-                    <div class="col-auto">
-                        <button type="submit" style="background-color:transparent; color:white; font-weight:20px; border-color:white;   margin-bottom:20px ;" class="btn btn-primary">Submit</button>
+                    <div class="col-auto" style=" margin-bottom:20px;">
+                        <button type="submit" style="background-color:transparent; color:white; font-weight:20px; border-color:white;   " class="btn btn-primary">Submit</button>
                     </div>
             </form>
         </div>
@@ -118,16 +118,21 @@
         </div>
 </div>
 </body>
+
 <div class="container">
   <div class="row" >
-    <div class="col align-self-start">
-     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, corporis maxime modi laudantium repudiandae cum consequatur beatae atque tempora veniam neque reprehenderit aspernatur quos totam vitae ullam nobis, voluptatem at adipisci numquam itaque, alias amet blanditiis recusandae? Quis ratione harum similique, et at eaque cum dicta dolorem nulla deserunt, veritatis eum? Mollitia recusandae impedit repudiandae iusto minus minima laboriosam fugiat neque ullam, distinctio nulla expedita? Eos quibusdam placeat quisquam asperiores?
+  <h1 style="font-size:40px; margin-left: 30px; margin-buttom: 20px;">More About Us</h1>
+    <div class="col align-self-start" >
+        <img src="arko.jpg" alt="arko" style="border-radius:50%; padding-left:10px; height:200px; align-items:center;">
+     <p style="margin-top:10px" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, corporis maxime modi laudantium repudiandae cum consequatur beatae atque tempora veniam neque reprehenderit aspernatur quos totam vitae ullam nobis, voluptatem at adipisci numquam itaque, alias amet blanditiis recusandae? Quis ratione harum similique, et at eaque cum dicta dolorem nulla deserunt, veritatis eum? Mollitia recusandae impedit repudiandae iusto minus minima laboriosam fugiat neque ullam, distinctio nulla expedita? Eos quibusdam placeat quisquam asperiores?</p>
     </div>
     <div class="col align-self-center">
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate reprehenderit temporibus voluptatibus quaerat inventore? Facilis, aliquid! Totam eaque veniam similique fuga, id eveniet ex cumque, facilis eos quas alias nemo at, omnis velit fugiat quidem sunt ipsam unde voluptatem atque? Amet reprehenderit laudantium soluta enim doloribus. Id suscipit possimus, expedita molestiae ex est accusantium eaque accusamus molestias amet illo unde sit corporis ea inventore odio et quos dolorum cumque doloribus.
+    <img src="arko1.jpg" alt="arko" style="border-radius:50%; margin-left:20px ;height:200px">
+    <p style="margin-top:10px">  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate reprehenderit temporibus voluptatibus quaerat inventore? Facilis, aliquid! Totam eaque veniam similique fuga, id eveniet ex cumque, facilis eos quas alias nemo at, omnis velit fugiat quidem sunt ipsam unde voluptatem atque? Amet reprehenderit laudantium soluta enim doloribus. Id suscipit possimus, expedita molestiae ex est accusantium eaque accusamus molestias amet illo unde sit corporis ea inventore odio et quos dolorum cumque doloribus.</p>
     </div>
     <div class="col align-self-end">
-   Lorem ipsum dolor sit amet consectetur adipisicing elit. Est nihil iure illum nesciunt suscipit, tenetur animi quis aperiam magnam quaerat saepe incidunt nisi, consectetur aliquid nemo porro quibusdam? Rerum, blanditiis? Repellat esse aspernatur eveniet odio, atque vitae harum dolores ipsa, qui necessitatibus vero quibusdam deserunt voluptatem reprehenderit fuga consequuntur nostrum! Vitae, quae animi nemo natus nihil eius dicta consectetur quas quos beatae harum incidunt iusto eum deserunt, adipisci, quo fuga?
+    <img src="arko2.jpg" alt="arko" style="border-radius:50%; margin-left:20px; height:200px">
+ <p style="margin-top:10px">  Lorem ipsum dolor sit amet consectetur adipisicing elit. Est nihil iure illum nesciunt suscipit, tenetur animi quis aperiam magnam quaerat saepe incidunt nisi, consectetur aliquid nemo porro quibusdam? Rerum, blanditiis? Repellat esse aspernatur eveniet odio, atque vitae harum dolores ipsa, qui necessitatibus vero quibusdam deserunt voluptatem reprehenderit fuga consequuntur nostrum! Vitae, quae animi nemo natus nihil eius dicta consectetur quas quos beatae harum incidunt iusto eum deserunt, adipisci, quo fuga?</p>
     </div>
   </div>
 </div>
@@ -261,7 +266,7 @@
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">saugat pandey</a>
   </div>
   <!-- Copyright -->
 </footer>
